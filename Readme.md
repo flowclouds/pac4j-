@@ -21,7 +21,7 @@
 # 5、可用的pac4j的实现
 [http://www.pac4j.org/implementations.html](http://www.pac4j.org/implementations.html)  
 ![dsafdsa](pac4j实现.png)
-
+  
 # 6、认证
 客户端=用于WEB认证机制的流程
 * →2个使用要点
